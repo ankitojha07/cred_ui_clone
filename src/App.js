@@ -1,9 +1,10 @@
 import React from 'react'
+import HomePage from './pages/HomePage'
 
 const App = () => {
   return (
-    <div>This is CRED</div>
-  )
+    <HomePage/>
+    )
 }
 
 export default App
